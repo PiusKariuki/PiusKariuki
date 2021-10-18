@@ -2,15 +2,15 @@ Hi there 👋  I am Pius Kariuki.
 	`A full-stack web developer from Kenya.
 		
 		
-*Skills:		#React JS
-	   	  	>Typescript.
-		    	>Node JS.
-		    	>MongoDB.
-		    	>Express JS.
-		    	>Tailwind css.
+*Skills:*			*React JS
+	   	  	*Typescript.
+		    	*Node JS.
+		    	*MongoDB.
+		    	*Express JS.
+		    	*Tailwind css.
 
-*Personal projects*:	>Kilimo Farm management System. **https://github.com/PiusKariuki/Kilimo-Admin-Panel**
-				>E-voting system. **https://github.com/PiusKariuki/E-Voting-v2.0**
+*Personal projects:*	*Kilimo Farm management System. **https://github.com/PiusKariuki/Kilimo-Admin-Panel**
+			*E-voting system. **https://github.com/PiusKariuki/E-Voting-v2.0**
 
 
 
