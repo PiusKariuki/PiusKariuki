@@ -2,20 +2,20 @@ Hi there 👋  I am Pius Kariuki.
 	`A full-stack web developer from Kenya.
 		
 		
-<h3>*Skills:		>React JS
+*Skills:		>React JS
 	   	  	>Typescript.
 		    	>Node JS.
 		    	>MongoDB.
 		    	>Express JS.
 		    	>Tailwind css.
 
-<h3>*Personal projects*:	>Kilimo Farm management System. **https://github.com/PiusKariuki/Kilimo-Admin-Panel**
+*Personal projects*:	>Kilimo Farm management System. **https://github.com/PiusKariuki/Kilimo-Admin-Panel**
 				>E-voting system. **https://github.com/PiusKariuki/E-Voting-v2.0**
 
 
 
 
-<h3>*How to reach me.*
+*How to reach me.*
 	*piuskariuki19@gmail.com*
 	Or 
 	*https://www.linkedin.com/in/pius-kariuki-1796041b4/*
