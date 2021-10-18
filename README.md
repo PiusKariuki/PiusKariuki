@@ -1,5 +1,5 @@
-Hi there 👋  	<h3>I am Pius Kariuki.
-		<h3>A full-stack web developer from Kenya.
+Hi there 👋  I am Pius Kariuki.
+	`A full-stack web developer from Kenya.
 		
 		
 <h3>*Skills*:		>React JS
@@ -20,6 +20,10 @@ Hi there 👋  	<h3>I am Pius Kariuki.
 	Or 
 	*https://www.linkedin.com/in/pius-kariuki-1796041b4/*
   
+ 
+ 
+ 
+ 
  
 ```
  import React from "react";
