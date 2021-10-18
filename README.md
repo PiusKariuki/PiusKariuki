@@ -2,7 +2,7 @@ Hi there 👋  I am Pius Kariuki.
 	`A full-stack web developer from Kenya.
 		
 		
-*Skills:		>React JS
+*Skills:		#React JS
 	   	  	>Typescript.
 		    	>Node JS.
 		    	>MongoDB.
