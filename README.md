@@ -1,5 +1,5 @@
-Hi,I'm  _Pius Kariuki_
-	A _full-stack web developer_ from Kenya.
+Hi,I'm  _Pius Kariuki_😃
+	<p>A _full-stack web developer_ from Kenya.</p>
 		
 		
 _<h3>👨‍🌾Skills:	</h3>_		
