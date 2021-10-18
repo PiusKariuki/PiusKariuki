@@ -1,8 +1,7 @@
-Hi there 👋  
-
-I am Pius Kariuki a full-stack web developer from Kenya.
-
-About me.
+Hi there 👋  	I am Pius Kariuki.
+		A full-stack web developer from Kenya.
+		
+		
 Skills:	- React JS
 	   	  -Typescript.
 		    -Node JS.
@@ -11,7 +10,10 @@ Skills:	- React JS
 		    -Tailwind css.
 
 Personal projects:	-Kilimo Farm management System.
-					          -E-voting system.
+			-E-voting system.
+
+
+
 
 How to reach me.
 	piuskariuki19@gmail.com
