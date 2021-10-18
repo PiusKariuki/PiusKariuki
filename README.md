@@ -1,24 +1,29 @@
-Hi there 👋  I am Pius Kariuki.
-	`A full-stack web developer from Kenya.
+Hi,I'm  _Pius Kariuki_
+	A _full-stack web developer_ from Kenya.
 		
 		
-*Skills:*			*React JS
-	   	  	*Typescript.
-		    	*Node JS.
-		    	*MongoDB.
-		    	*Express JS.
-		    	*Tailwind css.
+_<h3>👨‍🌾Skills:	</h3>_		
+			<p>-React JS</p>
+			<p>-Typescript.</p>
+			<p>-Node JS.</p>
+			<p>-MongoDB.</p>
+			<p>-Express JS.</p>
+			<p>-Tailwind css.</p>
 
-*Personal projects:*	*Kilimo Farm management System. **https://github.com/PiusKariuki/Kilimo-Admin-Panel**
-			*E-voting system. **https://github.com/PiusKariuki/E-Voting-v2.0**
+_<h3>🏆Personal projects:  </h3>_	
+			<p>Kilimo Farm management System. [repo](https://github.com/PiusKariuki/Kilimo-Admin-Panel)</p>
+			<p>E-voting system. [repo](https://github.com/PiusKariuki/E-Voting-v2.0)</p>
 
 
 
 
-*How to reach me.*
-	*piuskariuki19@gmail.com*
+_<h3>📩How to reach me.  </h3>_
+	_<p>piuskariuki19@gmail.com</p>_
 	Or 
-	*https://www.linkedin.com/in/pius-kariuki-1796041b4/*
+	_<p>https://www.linkedin.com/in/pius-kariuki-1796041b4/<p>_
+	
+
+_<h3>Resume</h3>_ [resume](https://docs.google.com/document/d/1ujdD1atTkQ37drewxzbOcTnHgOkAS4c3s64XtaE3R8A/edit)
   
  
  
@@ -30,5 +35,5 @@ Hi there 👋  I am Pius Kariuki.
  
  const Profile:React.FC = ():JSX.Element => <h1>A passionate  web developer from Kenya!</h1>;
 
-export default 
+export default  Profile
 ```
