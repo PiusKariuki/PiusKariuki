@@ -1,16 +1,27 @@
-### Hi there 👋
+Hi there 👋  
 
-<!--
-**PiusKariuki/PiusKariuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Pius Kariuki a full-stack web developer from Kenya.
 
-Here are some ideas to get you started:
+About me.
+Skills:	- React JS
+	   	  -Typescript.
+		    -Node JS.
+		    -MongoDB.
+		    -Express JS.
+		    -Tailwind css.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Personal projects:	-Kilimo Farm management System.
+					          -E-voting system.
+
+How to reach me.
+	piuskariuki19@gmail.com
+	Or 
+	https://www.linkedin.com/in/pius-kariuki-1796041b4/
+  
+ 
+ 
+ import React from "react";
+ 
+ const Profile:React.FC = ():JSX.Element => <h1>A passionate  web developer from Kenya!</h1>;
+
+export default 
