@@ -21,9 +21,10 @@ How to reach me.
 	https://www.linkedin.com/in/pius-kariuki-1796041b4/
   
  
- 
+ <code>
  import React from "react";
  
  const Profile:React.FC = ():JSX.Element => <h1>A passionate  web developer from Kenya!</h1>;
 
 export default 
+</code>
