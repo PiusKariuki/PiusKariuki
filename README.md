@@ -10,9 +10,7 @@ _<h3>👨‍🌾Skills:	</h3>_
 			<p>-Express JS.</p>
 			<p>-Tailwind css.</p>
 
-_<h3>🏆Personal projects:  </h3>_	
-			<p>Kilimo Farm management System. [repo](https://github.com/PiusKariuki/Kilimo-Admin-Panel)</p>
-			<p>E-voting system. [repo](https://github.com/PiusKariuki/E-Voting-v2.0)</p>
+
 
 
 
