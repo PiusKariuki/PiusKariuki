@@ -2,7 +2,11 @@ Hi,I'm  _Pius Kariuki_😃
 	<p>A _full-stack web developer_ from Kenya.</p>
 		
 		
-_<h3>👨‍🌾Skills:	</h3>_		
+_<h3>👨‍🌾Skills:	</h3>_	
+			<p>-Vue JS</p>
+			<p>-Python</p>
+			<p>-Django</p>
+			<p>-SQL</p>
 			<p>-React JS</p>
 			<p>-Typescript.</p>
 			<p>-Node JS.</p>
