@@ -25,7 +25,7 @@ _<h3>📩How to reach me.  </h3>_
 	_<p>https://www.linkedin.com/in/pius-kariuki-1796041b4/<p>_
 	
 
-_<h3>Resume</h3>_ [resume](https://docs.google.com/document/d/1ujdD1atTkQ37drewxzbOcTnHgOkAS4c3s64XtaE3R8A/edit)
+_<h3>Resume</h3>_ [resume]([https://docs.google.com/document/d/1ujdD1atTkQ37drewxzbOcTnHgOkAS4c3s64XtaE3R8A/edit](https://docs.google.com/document/d/e/2PACX-1vTBhvwagxNSfxi35WV0d9atq2qacraZbPZkKOpVyRFpzm-VrEzUt-ULTWqDBlGGrCIRI-MMQAOjYfLa/pub))
   
  
  
