@@ -20,12 +20,10 @@ _<h3>👨‍🌾Skills:	</h3>_
 
 
 _<h3>📩How to reach me.  </h3>_
-	_<p>piuskariuki19@gmail.com</p>_
+	_<p>pius@vonnie.io</p>_
 	Or 
 	_<p>https://www.linkedin.com/in/pius-kariuki-1796041b4/<p>_
-	
 
-_<h3>Resume</h3>_ [resume](https://docs.google.com/document/d/e/2PACX-1vTBhvwagxNSfxi35WV0d9atq2qacraZbPZkKOpVyRFpzm-VrEzUt-ULTWqDBlGGrCIRI-MMQAOjYfLa/pub)
   
  
  
