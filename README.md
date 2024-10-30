@@ -20,7 +20,7 @@ _<h3>👨‍🌾Skills:	</h3>_
 
 
 _<h3>📩How to reach me.  </h3>_
-	_<p>pius@vonnie.io</p>_
+	_<p>piuskariuki19@gmail.com</p>_
 	Or 
 	_<p>https://www.linkedin.com/in/pius-kariuki-1796041b4/<p>_
 
